@@ -7,5 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I’m **Sungmin Jo**, an undergraduate student in the Department of Computer Science and Engineering at **Seoul National University (SNU)**.  
-My research interests lie in **Large Language Models (LLMs)**, **Reinforcement Learning**.
+## About Me  
+
+I’m **Sungmin Jo**, an undergraduate student in the Department of Computer Science and Engineering at **Seoul National University (SNU)**.  
+
+My research interests include:  
+- **Large Language Models (LLMs)**  
+- **Reinforcement Learning**  
+- **Physical AI**  
+
+---
+
+
+
+✉️ You can reach me via [GitHub](https://github.com/jsm0424) or [Email](mailto:jsm0424@snu.ac.kr).
